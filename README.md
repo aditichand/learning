@@ -1,3 +1,2 @@
-Hello, world!
-
-I am new to programming and am currently learning to use Python to apply it to data science. I would love to hear suggestions and recommendations from the community.
+<h1>  Learning
+This repository branch contains projects I have worked/will be working on while completing various cartifications and specializations. The languages used will be Python and SQL.
