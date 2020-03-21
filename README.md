@@ -1,4 +1,4 @@
-<h3> All About Learning <h3/>
+<h3> All About Learning </h3>
 Almost all of the code in this repo has been built on other platforms such as IBM Watson or IBM's Skills Network Lab.
 I will appreciate contributions to this repo by adding material that can help me grow as a data scientist such as <br/><br/>
   <ul>
